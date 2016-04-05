@@ -1,0 +1,31 @@
+{
+  "name": "jwt-microservices-oauth",
+  "version": "0.0.0",
+  "description": "a POC for service to service auth for shared environments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naterkane/jwt-microservices-oauth.git"
+  },
+  "keywords": [
+    "jwt",
+    "microservices",
+    "node",
+    "oauth",
+    "auth",
+    "authorization",
+    "poc",
+    "proof",
+    "of",
+    "concept"
+  ],
+  "author": "Nater Kane <nater@naterkane.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naterkane/jwt-microservices-oauth/issues"
+  },
+  "homepage": "https://github.com/naterkane/jwt-microservices-oauth#readme"
+}
